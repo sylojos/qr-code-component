@@ -18,14 +18,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 <p align="center">
-  <a href="" target="_blank" rel="noopener noreferrer">
+  <a href="https://sylojos.github.io/qr-code-component/" target="_blank" rel="noopener noreferrer">
     <img width="1857" height="1033" alt="QR code component" src="https://github.com/user-attachments/assets/8cbd4ff5-491e-440e-95f1-34ec574743e4" />
   </a>
 </p>
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://sylojos.github.io/qr-code-component/)
 
 ## My process
 
