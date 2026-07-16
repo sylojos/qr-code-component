@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <p align="center">
   <a href="https://sylojos.github.io/qr-code-component/" target="_blank" rel="noopener noreferrer">
-    <img width="1857" height="1033" alt="QR code component" src="https://github.com/user-attachments/assets/8cbd4ff5-491e-440e-95f1-34ec574743e4" />
+    <img width="1857" height="1033" alt="QR code component" src="https://github.com/user-attachments/assets/87c3a633-e2cb-4278-ac95-0c5a84649c54" />
   </a>
 </p>
 
