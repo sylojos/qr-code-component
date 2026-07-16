@@ -60,3 +60,49 @@ p {
 h1 {
   text-wrap: balance;
 }
+
+body {
+  font-family: var(--ff-primary);
+  font-weight: var(--fw-regular);
+  font-size: var(--fs-15);
+  color: var(--color-text);
+  background-color: var(--color-body-bg);
+  min-height: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+article {
+  background-color: var(--color-container-bg);
+  border-radius: var(--radius-sm);
+  padding: var(--spacing-sm);
+  max-width: 320px;
+}
+
+img {
+  border-radius: var(--radius-xs);
+  margin-bottom: var(--spacing-md);
+}
+
+.qr-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  padding-left: var(--spacing-sm);
+  padding-right: var(--spacing-sm);
+  text-align: center;
+  margin-bottom: calc(var(--spacing-lg) - var(--spacing-sm));
+}
+
+h1 {
+  font-weight: var(--fw-bold);
+  font-size: var(--fs-22);
+  color: var(--color-heading);
+  line-height: var(--line-height-sm);
+}
+
+p {
+  letter-spacing: var(--spacing-xs);
+  line-height: var(--line-height-xs);
+}
