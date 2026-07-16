@@ -100,10 +100,10 @@ h1 {
   font-weight: var(--fw-bold);
   font-size: var(--fs-22);
   color: var(--color-heading);
-  line-height: var(--line-height-sm);
+  line-height: var(--line-height-xs);
 }
 
 p {
   letter-spacing: var(--spacing-xs);
-  line-height: var(--line-height-xs);
+  line-height: var(--line-height-sm);
 }
